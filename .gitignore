@@ -1,0 +1,9 @@
+# Ignore log files
+*.log
+
+# Ignore build directories
+/build/
+
+# Ignore a specific file
+secret.txt
+ 
